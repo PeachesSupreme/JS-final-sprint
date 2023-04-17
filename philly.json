@@ -1,0 +1,50 @@
+[
+  {
+    "fName": "Dennis",
+    "lName": "Reynolds",
+    "age": 31,
+    "occupation": "Bartender",
+    "hobbies": "the DENNIS system, drving the landrover",
+    "livingSituation": "Roommates with Mac"
+  },
+  {
+    "fName": "Deandra",
+    "lName": "Reynolds",
+    "age": 31,
+    "occupation": "Waitress",
+    "hobbies": "amateur comedy, acting",
+    "livingSituation": "Lives alone with a cat"
+  },
+  {
+    "fName": "Frank",
+    "lName": "Reynolds",
+    "age": 61,
+    "occupation": "Investor",
+    "hobbies": "laundering money, hanging out with Charlie under the birdge and in the sewers",
+    "livingSituation": "Sleeps on futon with Charlie"
+  },
+  {
+    "fName": "Charlie",
+    "lName": "Kelly",
+    "age": 30,
+    "occupation": "Janitor",
+    "hobbies": "Charlie work, bashing rats, hanging out with Frank uner the bridge and in the sewers",
+    "livingSituation": "Sleeps on futon with Frank"
+  },
+  {
+    "fName": "Ronald",
+    "lName": "MacDonald",
+    "age": 30,
+    "occupation": "Bouncer",
+    "hobbies": "karate, cultivating mass",
+    "livingSituation": "Roommates with Dennis"
+  },
+  {
+    "fName": "Matthew",
+    "lName": "Mara",
+    "age": 29,
+    "occupation": "Unemployed",
+    "hobbies": "eating lemons, stealing bread",
+    "livingSituation": "Homeless"
+  }
+]
